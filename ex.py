@@ -15,3 +15,4 @@ if j>0:
     print("Non-prime")
 else:
     print("prime")
+a=5
